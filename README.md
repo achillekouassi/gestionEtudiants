@@ -24,6 +24,4 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés :
 1. **Cloner le dépôt**
 
    Clonez ce dépôt sur votre machine locale :
-
-   ```sh
-   git clone https://github.com/votre-nom-utilisateur/gestion-notes.git
+https://github.com/achillekouassi/gestionEtudiants.git

@@ -15,7 +15,7 @@ Cette application permet de gérer les notes des étudiants dans une école. Les
 
 Avant de commencer, assurez-vous d'avoir les éléments suivants installés :
 
-- **Java Development Kit (JDK)** 11 ou supérieur
+- **Java Development Kit (JDK)** 17 ou supérieur
 - **Eclipse IDE** (ou tout autre IDE compatible avec Java)
 - **Git** pour le contrôle de version
 
